@@ -1,0 +1,13 @@
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\bin\Debug\netcoreapp3.1\gitteste.exe
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\bin\Debug\netcoreapp3.1\gitteste.deps.json
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\bin\Debug\netcoreapp3.1\gitteste.runtimeconfig.json
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\bin\Debug\netcoreapp3.1\gitteste.runtimeconfig.dev.json
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\bin\Debug\netcoreapp3.1\gitteste.dll
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\bin\Debug\netcoreapp3.1\gitteste.pdb
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.AssemblyInfo.cs
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.dll
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.pdb
+C:\Users\Gebruiker\Desktop\gitteste\gitteste\obj\Debug\netcoreapp3.1\gitteste.genruntimeconfig.cache
